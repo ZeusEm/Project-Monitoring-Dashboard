@@ -1,5 +1,7 @@
 # NAVYOJANA — ERP Monitoring Platform 🚀⚓
 
+![Screenshot_31-12-2025_152710_140 245 12 117](https://github.com/user-attachments/assets/1c4ab205-bb8d-466e-b1b9-45627fd7b9d5)
+
 **Flask-based monitoring & reporting for ERP observations** — designed for naval operations, audit-friendly, and built to be demonstrable to senior leadership.  
 _Tracks observations, supports lifecycle actions (Open → Resurfaced → Closed), generates management-grade PDF briefs, and visualizes trends._
 
